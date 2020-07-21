@@ -17,8 +17,8 @@
 
 ![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3NCRY9T3R)]
 
 ![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
 
-  
+ 
