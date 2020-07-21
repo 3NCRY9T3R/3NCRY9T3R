@@ -11,8 +11,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 
-![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)[![live stats](https://github-readme-stats.vercel.app/api?username=3NCRY9T3R&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/3NCRY9T3R)
-![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3NCRY9T3R)](https://github.com/3NCRY9T3R)
 ![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
 
+<img src="https://github-readme-stats.vercel.app/api?username=3NCRY9T3R&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
+
+![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3NCRY9T3R)](https://github.com/3NCRY9T3R" width="100%"/>
+![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
+
+  
