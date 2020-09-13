@@ -17,6 +17,10 @@
 <br>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3NCRY9T3R"/>
+<br>
+</br>
+### Spotify Playing 🎧
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/313hosh4xv5owljhilnlzrqxuhcm)
 </p>
 
 
